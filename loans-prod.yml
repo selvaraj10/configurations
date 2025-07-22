@@ -2,7 +2,7 @@ build:
   version: "1.2"
 
 accounts:
-  message: "Loans Service for production"
+  message: "Loans Service for prod"
   contactDetails:
     name: "Selva - Developer"
     email: "2H4kM@example.com"
