@@ -1,0 +1,11 @@
+build:
+  version: "1.1"
+
+accounts:
+  message: "Cards Service for test"
+  contactDetails:
+    name: "Selva - Developer"
+    email: "2H4kM@example.com"
+  onCallSupport:
+    - (04259) 12345
+    - (04259) 12346
