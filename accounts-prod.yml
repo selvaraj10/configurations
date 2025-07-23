@@ -2,7 +2,7 @@ build:
   version: "1.2"
 
 accounts:
-  message: "Accounts Service for prod"
+  message: "Accounts Service for cli prod"
   contactDetails:
     name: "Selva - Developer"
     email: "2H4kM@example.com"
